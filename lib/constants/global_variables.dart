@@ -3,7 +3,7 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 
 // for url
-String uri = 'http://192.168.0.6:3000';
+String uri = [IP Address]:[Port Number];
 
 class GlobalVariables {
   // COLORS
