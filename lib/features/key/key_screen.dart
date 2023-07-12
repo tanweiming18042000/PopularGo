@@ -23,7 +23,7 @@ class KeyScreen extends StatefulWidget {
 class _KeyScreenState extends State<KeyScreen> {
   final AuthService authService = AuthService();
   Position? _currentPosition;
-  String apiKey = 'AIzaSyAU4FwZV1M3i483WUrWE_u4b_mu2CSpHvM';
+  String apiKey = [Google Map API Key];
   // rafius is in meter
   String radius = '5000';
   List<dynamic> nearbyPlaces = [];
