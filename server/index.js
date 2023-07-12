@@ -14,7 +14,7 @@ const exitRouter = require("./routes/exit.js");
 const PORT = 3000;
 // const app = express();
 const DB =
-  "mongodb+srv://ming:8281330twm@cluster0.5thnr1e.mongodb.net/?retryWrites=true&w=majority";
+  [MongoDB API];
 
 // middleware (runs everytime a request is fired)
 app.use(express.json());
